@@ -44,7 +44,7 @@ export default class Navi extends React.Component {
            
               <NavItem>
                 <NavLink>
-                  <Link to="stories">Stories</Link>
+                  <Link to="product">Stories</Link>
                 </NavLink>
               </NavItem>
               <NavItem>
