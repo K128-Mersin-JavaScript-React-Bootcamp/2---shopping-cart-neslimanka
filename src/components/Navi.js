@@ -34,7 +34,7 @@ export default class Navi extends React.Component {
         <Navbar color="white" light expand="lg">
           <NavbarBrand href="/">Ecommerce</NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
-          <Collapse  navbar>
+          <Collapse isOpen={this.state.isOpen} navbar>
             <Nav className="ml-auto" navbar>
               <NavItem>
                 <NavLink>

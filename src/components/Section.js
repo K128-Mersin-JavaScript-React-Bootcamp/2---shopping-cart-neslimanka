@@ -15,9 +15,10 @@ export class Section extends React.Component {
         <Route exact path="/ecommerce" component={Home} />
         <Route exact path="/login" component={Login} />
         <Route exact path="/shop" component={Shop} />
-        <Route exact path="/stories" component={Stories} />
+        <Route exact path="/product/:id" component={Stories} />
         <Route exact path="/about" component={About} />
         <Route exact path="/cart" component={Cart} />
+        
       </div>
     );
   }

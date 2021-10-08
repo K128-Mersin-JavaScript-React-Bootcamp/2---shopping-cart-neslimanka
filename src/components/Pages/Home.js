@@ -19,7 +19,7 @@ export default class Home extends Component {
             
             </Box>
             <Box sx={{ textAlign: "center", m: 3}}>
-            <Button variant="contained" color="secondary" size="large"  href="/shop">
+            <Button variant="contained" color="success" size="large"  href="/shop">
                    SHOP
                </Button>
           
