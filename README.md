@@ -6,6 +6,9 @@ Hazır data için db.json dosyasını kullanabilirsiniz. Bu dosyayı json-server
 
 ## Sayfalar
 1. Ana sayfa
+<img width="521" alt="home2" src="https://user-images.githubusercontent.com/43746150/136630696-21af28b5-8a06-4123-98ad-cb10f9d8e947.PNG">
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 <img width="345" alt="home" src="https://user-images.githubusercontent.com/43746150/136630302-4e8643a3-862c-4535-addc-29ebbfd5a071.PNG">
 
     * Burada site ile ilgili gelen bir bilgi ve görsel yer alacaktır. Top Navbar dahildir.
