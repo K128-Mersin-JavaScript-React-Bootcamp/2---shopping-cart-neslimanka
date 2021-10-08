@@ -10,7 +10,7 @@ export default class About extends Component {
           <Grid container spacing={2}>
             <Grid item xs={12}>
               <Box sx={{ textAlign: "center", m: 3 }}>
-                <h3 style={{ color: "#f0d722" }}> ABOUT US</h3>
+                <h3 style={{ color: "#50809B" }}> ABOUT US</h3>
               </Box>
               <Box>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
